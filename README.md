@@ -1,7 +1,3 @@
-section {
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -187,3 +183,7 @@ section {
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
