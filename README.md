@@ -1,3 +1,7 @@
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 <!DOCTYPE html>
 <html lang="ru">
 <head>
